@@ -13,7 +13,7 @@ Tested with Python 2.7 on Ubuntu 16.04.
 ##Instruction to run
 Run python sview_height.py
 Follow these instructions:
--------------------------INSTRUCTIONS----------------------------"
+-------------------------INSTRUCTIONS----------------------------
 1. Draw 8 line segments, holding mouse while drawing
 2. First two for xVanish (vanishing point)
 3. Next two for yVanish (vanishing point)
@@ -21,7 +21,7 @@ Follow these instructions:
 5. First draw for shorter object in image plane starting from bottom
 6. Then for other object again starting from bottom
 7. Finally two for zVanish (vanishing point)
------------------------------END---------------------------------"
+-----------------------------END---------------------------------
 
 ##Feedback
 All kind of feedback (code style, bugs, comments etc.) is welcome. Please open an issue on this repo instead of mailing me, since it helps me keep track of things better.
