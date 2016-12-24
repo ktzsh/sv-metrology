@@ -1,9 +1,9 @@
 # Single View Metrology
 
-This project provides way of comparing heights of different objects in a single image using Single View Metrology and cross-ration {http://dhoiem.cs.illinois.edu/courses/vision_spring10/sources/criminisi00.pdf}
+This project provides way of comparing heights of different objects in a single image using Single View Metrology and cross-ratio invariance under projective transformation {http://dhoiem.cs.illinois.edu/courses/vision_spring10/sources/criminisi00.pdf}
 
 |--------------------------------------|-------------------------| 
-| <img src="https://raw.githubusercontent.com/kshitiz38/sv-metrology/master/1.jpg" alt="alt text" width="350" height=""> | <img src="https://raw.githubusercontent.com/kshitiz38/sv-metrology/master/2.png" alt="alt text" width="450" height="whatever"> |
+| <img src="https://raw.githubusercontent.com/kshitiz38/sv-metrology/master/1.jpg" alt="alt text" width="250" height=""> | <img src="https://raw.githubusercontent.com/kshitiz38/sv-metrology/master/2.png" alt="alt text" width="350" height="whatever"> |
 
 ##Requirements
 1. OpenCV
